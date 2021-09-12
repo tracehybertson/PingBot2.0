@@ -12,3 +12,5 @@ Currently, this bot recognizes 4 commands, including a **help** command.\
 \
 This code runs through discord.js and dotenv with Node.JS\
 **You need to set up a .env file with the discord token in the format:** `DISCORD_TOKEN= (your token)`
+\
+Feel free to use the code, and let me know if you have command suggestions!
