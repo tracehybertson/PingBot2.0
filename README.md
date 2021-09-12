@@ -1,7 +1,7 @@
 # This is a simple discord bot using discord.js.
 
-I wrote this simple bot to practice my Javascript, OOP, and API calls. \
-I wanted to practice scanning messages, replying, reacting, using embedded formatting, and button actions in Discord. \
+I wrote this simple bot to practice my Javascript, OOP, and API calls.
+I wanted to practice scanning messages, replying, reacting, using embedded formatting, and button actions in Discord.
 The code is modified from the guide found at https://discordjs.guide/#before-you-begin \
 \
 It looks for messages that start with **???** and then finds the associated command based on file name in the ```\commands``` folder. \
