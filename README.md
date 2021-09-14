@@ -2,7 +2,7 @@
 
 I wrote this simple bot to practice my Javascript, OOP, and API calls.
 I wanted to practice scanning messages, replying, reacting, using embedded formatting, and button actions in Discord.
-The code is modified from the guide found at https://discordjs.guide/#before-you-begin \
+The code is modified from the guide found at https://discordjs.guide/ \
 \
 It looks for messages that start with **???** and then finds the associated command based on file name in the ```\commands``` folder. \
 As an example, if a user sends a message **???ping**, the bot will run the command found at ```\commands\ping.js```. \
