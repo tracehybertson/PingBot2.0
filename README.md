@@ -1,6 +1,6 @@
 # This is a simple discord bot using discord.js.
 
-I wrote this simple bot to practice my Javascript, OOP, and API calls.
+I wrote this simple bot to practice using discord.js while I work on a larger bot project.
 I wanted to practice scanning messages, replying, reacting, using embedded formatting, and button actions in Discord.
 The code is modified from the guide found at https://discordjs.guide/ \
 \
