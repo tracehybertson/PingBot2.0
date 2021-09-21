@@ -12,7 +12,7 @@ module.exports = {
         { name: 'We have a few commands you can use', value: "Be sure to type a '???' before each key word." },
         { name: '\u200B', value: '\u200B' },
       )
-      .addField('Some other commands to try:', 'Try using pupper, or pong, and see what happens!', true)
+      .addField('Some other commands to try:', 'Try using pong, and see what happens!', true)
     	.setTimestamp()
     	.setFooter('Thanks for playing');
 
