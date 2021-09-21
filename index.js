@@ -37,8 +37,8 @@ client.on('messageCreate', msg => {
 	const command = client.commands.get(restOfMessage);
 
 	if (!command){
-    return msg.reply({ content: "Sorry, that is not a valid command! " +
-    "Please type'" + prefix +"help' to get a list of commands and their actions.", ephemeral: true });
+    return msg.reply({ content: "Sorry, that's an invalid command! " +
+    "Please type '" + prefix +"help' to get a list of commands and their actions.", ephemeral: true });
   }
 
 	try {
