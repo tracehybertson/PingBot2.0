@@ -1,5 +1,5 @@
 module.exports = {
-  execute(msg){
+  execute(msg) {
     msg.react('😡');
     msg.reply('Really!?');
   },
