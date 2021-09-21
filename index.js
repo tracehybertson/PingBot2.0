@@ -25,7 +25,7 @@ client.once('ready', () => {
 });
 
 // Set command prefix
-let prefix = '???';
+let prefix = '%';
 
 // When we get sent a message, if it starts with the prefix, check if it's a command
 client.on('messageCreate', msg => {
