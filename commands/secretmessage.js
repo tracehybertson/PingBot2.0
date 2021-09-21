@@ -8,7 +8,7 @@ module.exports = {
           new MessageButton()
             .setLabel('Click Me!')
             .setStyle('LINK')
-            .setURL('https://twitter.com'),
+            .setURL('https://www.twitch.tv/traceofafiddle1'),
       );
       msg.react('🤐');
       msg.channel.send({ content: 'Good Job! You found me!', components: [row] });
